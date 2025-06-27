@@ -1,0 +1,9 @@
+com\edutech\admin\AdminApplication.class
+com\edutech\admin\controller\AdminController.class
+com\edutech\admin\service\UsuarioService.class
+com\edutech\admin\service\PermisoService.class
+com\edutech\admin\model\Permiso.class
+com\edutech\admin\repository\UsuarioRepository.class
+com\edutech\admin\repository\PermisoRepository.class
+com\edutech\admin\controller\PermisoController.class
+com\edutech\admin\model\Usuario.class
